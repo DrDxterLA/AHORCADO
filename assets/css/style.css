@@ -1,0 +1,30 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Tarjeta de estado */
+.estado-card {
+  max-width: 300px;
+}
+
+/* TIMAGEN */
+img {
+  max-width: 100px;
+}
+
+/* Letras */
+.letra {
+  width: 45px;
+  margin: 3px;
+}
+
+/* Palabra oculta */
+#palabra span {
+  font-size: 2rem;
+  margin: 0 5px;
+  border-bottom: 2px solid #000;
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+}
