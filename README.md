@@ -69,5 +69,3 @@ La barra de progreso se ajusta dinámicamente según el modo seleccionado.
 ✔ Modo difícil configurable  
 ✔ Interfaz responsive  
 ✔ Código modular y comentado  
-
----
